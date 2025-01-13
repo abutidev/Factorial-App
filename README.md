@@ -10,7 +10,6 @@ project/
 |-- playwright.config.js  # Playwright configuration file
 |-- package.json          # Project dependencies and scripts
 |-- node_modules/         # Installed Node.js modules
-|-- Project_deliverables/ # Other project deliverables such as documents and videos.
 ```
 
 ## Prerequisites
