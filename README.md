@@ -24,7 +24,7 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:abutidev/Factorial-App.git
    cd factorialapp
    ```
 
@@ -46,7 +46,7 @@ The test configuration is defined in `playwright.config.js`. Key settings includ
 
 To execute all tests:
 ```bash
-npm test
+npx playwright test
 ```
 
 To run tests for a specific browser:
